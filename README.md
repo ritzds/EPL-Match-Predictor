@@ -1,6 +1,8 @@
+# Project: Predicting English Premier League (EPL) Match Outcomes Using Machine Learning
+
 In this project, I developed a machine learning model to predict match outcomes (home win, away win, or draw) for the English Premier League based on two seasons of match data from FBref.com. The project involved extensive exploratory data analysis, including assessing the impact of team formations, audience attendance, and key match events like set-pieces on match results.
 
-Key Highlights:
+## Key Highlights:
 
 Performed a chi-square test to confirm that team formations significantly influence match outcomes, with the 4-3-3 formation being the most successful.
 Conducted correlation analysis to identify that shots attempted, shots on target, and corners contribute most to goal-scoring.
